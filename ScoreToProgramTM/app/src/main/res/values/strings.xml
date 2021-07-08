@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ScoreToProgramTM</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="score_to_program">Score To Program</string>
+    <string name="start">Start</string>
+    <string name="Description">My name is Ciro Testa, I am a student of computer science.
+        Freshman: 0124001990. I want to propose an idea already implemented in Web Technologies.
+        It consists in creating an application that allows the user to learn the basics of computer science,
+        through simple questions that aim to learn the basics of computer science.
+    </string>
+    <string name="todo0">TODO</string>
+    <string name="start_game">Start Game</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="choice_levels">Select Level</string>
+    <string name="level_1">Level 1</string>
+    <string name="level_3">Level 3</string>
+    <string name="level_2">Level 2</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="user_view">Select your nickname</string>
+    <string name="textview1">TextView</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">button</string>
+    <string name="textviewdomanda">TextView</string>
+    <string name="todo9">TODO</string>
+    <string name="back">Back</string>
+    <string name="todo11">TODO</string>
+    <string name="CalciaPallone">Kick the ball to start!</string>
+    <string name="insert_your_username">Insert your Username</string>
+</resources>
